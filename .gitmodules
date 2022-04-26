@@ -1,6 +1,8 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/YutoMoriyasu/sample-api.git
+	branch = main
 [submodule "front"]
 	path = front
 	url = https://github.com/YutoMoriyasu/sample-front.git
+	branch = main
